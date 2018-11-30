@@ -8,3 +8,11 @@
 - 赋予脚本执行权限， chmod a+x /xx/xx/xx/xx/day_one.sh
 - 开始写日记 ，执行命令 `dy`
 
+
+## sdaswap
+> 用于对华硕路由器ac86u的内存不足情况做一个虚拟内存
+> 脚本755权限，放置于路由器目录 /jffs/scripts/ 下
+
+- /jffs/scripts/swaswap info
+- /jffs/scripts/swaswap start
+- /jffs/scripts/swaswap stop
